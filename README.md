@@ -136,7 +136,7 @@ Cada projeto representa uma abordagem diferente de escrita — desde manuais de 
 | Projeto | Descrição | Tipo |
 |:--|:--|:--|
 | [Inversor ASB 3000w](./docs/Inversor-ASB-3000w.md) | Documento técnico descrevendo a estrutura, funcionamento e uso de um inversor de energia off-grid. | Documentação de Hardware |
-| [ModelForge Studio](./docs/ModelForge-Studio.md) | Documentação técnica e de uso para um software de modelagem 3D. Foco em estrutura, fluxo e clareza. | Documentação de Software |
+| [ModelForge Studio](./docs/Model-Forge-Studio.md) | Documentação técnica e de uso para um software de modelagem 3D. Foco em estrutura, fluxo e clareza. | Documentação de Software |
 | [Guia de Instalação de Painel Solar](./docs/Guia-de-Instalacao-de-Painel-Solar.md) | Manual de instalação para um sistema de energia solar off-grid, escrito para usuários em geral. | Guia de Usuário |
 | [Guia de Documentação de API](./docs/Guia-de-Documentacao-API.md) | Exemplo de estrutura de documentação de API com endpoints, autenticação e respostas. | Documentação de API |
 
