@@ -1,6 +1,6 @@
 ## My-Portfolio
-# 👋 Anderson Barbosa  
-### 🧩 Technical Writer | Documentation Specialist | Designer  
+#  Anderson Barbosa  
+### Technical Writer | Documentation Specialist | Designer  
 
 ---
 
