@@ -1,0 +1,40 @@
+{
+    "forecast":[
+
+{"Monday": {
+ "description":"sunny",
+ "maxTemp":22,
+ "minTemp":20,
+ "windSpeed":12,
+ "danger":false]
+},
+{ "Tuesday": {
+ "description":"partly cloudy",
+ "maxTemp":25,
+ "minTemp":18,
+ "windSpeed":10,
+ "danger":false]
+},
+{ "Wednesday": {
+ "description":"rainy",
+ "maxTemp":19,
+ "minTemp":16,
+ "windSpeed":20,
+ "danger":true]
+},
+{ "Thursday": {
+ "description":"thunderstorms",
+ "maxTemp":21,
+ "minTemp":17,
+ "windSpeed":25,
+ "danger":true]
+},
+{ "Friday": {
+ "description":"cloudy",
+ "maxTemp":23,
+ "minTemp":19,
+ "windSpeed":15,
+ "danger":false]
+
+}
+}
